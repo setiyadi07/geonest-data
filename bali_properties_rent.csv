@@ -4,12 +4,12 @@ id,name,area,price_idr,lat,lon
 3,Kost Modern Renon,Denpasar,2500000,-8.6748,115.2192
 4,Rumah Asri Ubud,Ubud,5000000,-8.5069,115.2625
 5,Vila Damai Canggu,Canggu,7500000,-8.6478,115.1385
-6,Hunian Nyaman Kuta,Kuta,6000000,-8.7215,115.1685
+6,Hunian Nyaman Kuta,Kuta,6000000,-8.719,115.1723
 7,Rumah Sejuk Bedugul,Bedugul,3000000,-8.2748,115.1669
-8,Kost Strategis Gatsu,Denpasar,1800000,-8.6612,115.2050
+8,Kost Strategis Gatsu,Denpasar,1800000,-8.6612,115.205
 9,Rumah Baru Sanur,Sanur,5500000,-8.7031,115.2621
 10,Vila Murah Jimbaran,Jimbaran,4500000,-8.7863,115.1614
-11,Kost Dekat Kampus Sudirman,Denpasar,1500000,-8.6580,115.2193
+11,Kost Dekat Kampus Sudirman,Denpasar,1500000,-8.658,115.2193
 12,Rumah Asri Peguyangan,Denpasar,3200000,-8.6201,115.2105
 13,Vila Nyaman Nusa Dua,Nusa Dua,9000000,-8.8006,115.2317
 14,Rumah Minimalis Sesetan,Denpasar,2800000,-8.6923,115.2134
@@ -30,7 +30,7 @@ id,name,area,price_idr,lat,lon
 29,Vila Mewah Nusa Dua,Nusa Dua,15000000,-8.7989,115.2289
 30,Rumah Asri Kerobokan,Kerobokan,4200000,-8.6723,115.1712
 31,Kost Premium Renon,Denpasar,3500000,-8.6756,115.2212
-32,Vila Pantai Legian,Legian,8500000,-8.7089,115.1645
+32,Vila Pantai Legian,Legian,8500000,-8.7037,115.1653
 33,Rumah Nyaman Mengwi,Mengwi,2000000,-8.5589,115.1734
 34,Kost Murah Tonja,Denpasar,1300000,-8.6423,115.2234
 35,Vila Sejuk Kintamani,Kintamani,3500000,-8.2312,115.3123
@@ -72,11 +72,11 @@ id,name,area,price_idr,lat,lon
 71,Vila Mewah Seminyak,Seminyak,18000000,-8.6867,115.1589
 72,Rumah Asri Klungkung,Klungkung,1800000,-8.5389,115.4023
 73,Kost Nyaman Denpasar Utara,Denpasar,1500000,-8.6278,115.2178
-74,Vila Pantai Lovina,Lovina,4000000,-8.1589,115.0234
+74,Vila Pantai Lovina,Lovina,4000000,-8.1612,115.0312
 75,Rumah Keluarga Mengwi,Mengwi,2200000,-8.5545,115.1712
 76,Kost Premium Sudirman,Denpasar,2800000,-8.6556,115.2189
 77,Vila Hillside Kintamani,Kintamani,5000000,-8.2423,115.3234
-78,Rumah Minimalis Legian,Legian,6500000,-8.7067,115.1634
+78,Rumah Minimalis Legian,Legian,6500000,-8.7012,115.1678
 79,Kost Strategis Renon,Denpasar,2200000,-8.6767,115.2234
 80,Vila Romantis Sidemen,Sidemen,3500000,-8.5134,115.4523
 81,Rumah Asri Tabanan,Tabanan,1900000,-8.5378,115.1278
@@ -84,10 +84,10 @@ id,name,area,price_idr,lat,lon
 83,Vila Sawah Payangan,Payangan,4500000,-8.4456,115.2389
 84,Rumah Nyaman Buleleng,Buleleng,1400000,-8.1134,115.0889
 85,Kost Baru Panjer,Denpasar,1600000,-8.6845,115.2212
-86,Vila Pantai Candidasa,Candidasa,5500000,-8.5089,115.5634
+86,Vila Pantai Candidasa,Candidasa,5500000,-8.5034,115.5712
 87,Rumah Sejuk Kaja Ubud,Ubud,3800000,-8.4889,115.2634
 88,Kost Murah Peguyangan,Denpasar,1300000,-8.6212,115.2089
-89,Vila Eksotis Nusa Lembongan,Nusa Lembongan,8000000,-8.6934,115.4523
+89,Vila Eksotis Nusa Lembongan,Nusa Lembongan,8000000,-8.6978,115.4489
 90,Rumah Modern Kerobokan,Kerobokan,4500000,-8.6689,115.1723
 91,Kost Strategis Imam Bonjol,Denpasar,2000000,-8.6612,115.2112
 92,Vila Mewah Uluwatu,Uluwatu,13000000,-8.8278,115.0923
